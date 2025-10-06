@@ -32,8 +32,5 @@ Càlculs realitzats
 Models analitzats
 Justificació de la selecció final
 
-## Solució
-
-
 
 [Tornar pàgina projecte](../README.md)
